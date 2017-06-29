@@ -1,4 +1,4 @@
-##CRUD de aluno utilizando JPA
+## CRUD de aluno utilizando JPA
 
 ## Obtendo o projeto
 
